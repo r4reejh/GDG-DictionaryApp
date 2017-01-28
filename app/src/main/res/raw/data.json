@@ -1,0 +1,22 @@
+[
+  {"word": "Study",
+    "synonyms":[{"entry":"Learning"},{"entry":"education"},{"entry":"academic work"}],
+    "antonyms":[{"entry":"Ignorance"},{"entry":"disregard"},{"entry":"neglect"}]
+  },
+  {"word": "Brave",
+    "synonyms":[{"entry":"Fearless"},{"entry":"courageous"},{"entry":"fearless"}],
+    "antonyms":[{"entry":"Afraid"},{"entry":"fearful"},{"entry":"frightened"}]
+  },
+  {"word": "Foolish",
+    "synonyms":[{"entry":"Stupid"},{"entry":"Nonsense"},{"entry":"Idiotic"}],
+    "antonyms":[{"entry":"Sane"},{"entry":"realistic"},{"entry":"sensibleAnger"}]
+  },
+  {"word": "Anger",
+    "synonyms":[{"entry":"Annoyance"},{"entry":"miff"},{"entry":"fury"}],
+    "antonyms":[{"entry":"Calm"},{"entry":"peace"},{"entry":"glee"}]
+  },
+  {"word": "Good",
+    "synonyms":[{"entry":"Pleasant"},{"entry":"fine"},{"entry":"marvelous"}],
+    "antonyms":[{"entry":"Bad"},{"entry":"mean"},{"entry":"fake"}]
+  }
+]
